@@ -31,7 +31,7 @@ dependencies {
 
 ## Usage
 
-Take a look at the [sample](https://github.com/develNerd/JCSectionedProgressIndicator/tree/main/JCSectionedProgressIndicator)  usescase for more details on implementation
+Take a look at the [sample](https://github.com/develNerd/JCSectionedProgressIndicator/tree/main/app)  usescase for more details on implementation
 
 > Step 1
 
